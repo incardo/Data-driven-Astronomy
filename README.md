@@ -36,3 +36,5 @@ Week 6: Learning from data: classification
 Each week will also have an interview with a data-driven astronomy expert.
 
 Note that some knowledge of Python is assumed, including variables, control structures, data structures, functions, and working with files.
+
+Link to the Grok repository with exercises: https://groklearning.com/learn/data-driven-astro/
